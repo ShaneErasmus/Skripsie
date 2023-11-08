@@ -1,0 +1,8 @@
+THIS IS HOW YOU COMPLIE THE JAVA FILES:
+
+javac -classpath "../Fiji.app/jars/*" S
+
+YOU NEED JUST TO CHANGE THE DIRECTORIES IN 
+Run.sh
+
+THERAFTER RUN by typing ./Run.sh in terminal
