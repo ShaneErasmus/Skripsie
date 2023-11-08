@@ -1,0 +1,10 @@
+TO RUN:
+
+just type the script.ps1 file in terminal to run the script.
+
+However before doing so, some of the file locations needs to be updated in the following files:
+-script.ps1
+-Segmentation.java
+-Processing.py
+
+After saving and compiling these files you should be able to run the script file

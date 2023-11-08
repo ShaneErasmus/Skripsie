@@ -1,0 +1,1 @@
+javac -classpath "C:\Users\Shane\Documents\Universiteit\Fourth Year\Skripsie\fiji-win32\Fiji.app\jars\*" Segmentation.java
